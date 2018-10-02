@@ -1,0 +1,990 @@
+<!-- +  +------------+      +-----+                        +-----+     +---------+
+   | 8888888888 |      | d8b |                        | 888 |     | 8888888 |
+   | 888        +------+ Y8P |                        | 888 +-----+   888   +-----------------+
+   | 888                     +------------------------+ 888           888                     |
+   | 8888888    888  888 888  .d88b.   .d88b.  88888b.  888888        888   88888b.   .d8888b |
+   | 888        `Y8bd8P' 888 d88P"88b d8P  Y8b 888 "88b 888           888   888 "88b d88P"    |
+   | 888          X88K   888 888  888 88888888 888  888 888           888   888  888 888      |
+   | 888        .d8""8b. 888 Y88b 888 Y8b.     888  888 Y88b.         888   888  888 Y88b.    |
+   | 8888888888 888  888 888  "Y88888  "Y8888  888  888  "Y888      8888888 888  888  "Y8888P |
+   |                              888                                                         |
+   | 888888888888888888888   Y8b d88P   88888888888888888888888888888888888888888888888888888 |
+   |                          "Y88P"                                                          |
+   |  .d8888b.                                     d8b          888      888     +------------+
+   | d88P  Y88b                                    Y8P          888      888     |
+   | 888    888                                                 888      888     |
+   | 888         .d88b.  88888b.  888  888 888d888 888  .d88b.  88888b.  888888  |
+   | 888        d88""88b 888 "88b 888  888 888P"   888 d88P"88b 888 "88b 888     |
+   | 888    888 888  888 888  888 888  888 888     888 888  888 888  888 888     |
+   | Y88b  d88P Y88..88P 888 d88P Y88b 888 888     888 Y88b 888 888  888 Y88b.   |
+   |  "Y8888P"   "Y88P"  88888P"   "Y88888 888     888  "Y88888 888  888  "Y888  |
+   |                     888           888                  888                  |
+   |                     888      Y8b d88P             Y8b d88P   +--------------+
+   |                     888       "Y88P"               "Y88P"    |
+   |                                                              |
+   |  .d8888b.   .d8888b.   d888   .d8888b.       8888888888 888  |
+   | d88P  Y88b d88P  Y88b d8888  d88P  Y88b      888        888  +----------------------+
+   |        888 888    888   888  Y88b. d88P      888        888                         |
+   |      .d88P 888    888   888   "Y88888"       8888888    88888b.   8888b.  888  888  |
+   |  .od888P"  888    888   888  .d8P""Y8b.      888        888 "88b     "88b 888  888  |
+   | d88P"      888    888   888  888    888      888        888  888 .d888888 888  888  |
+   | 888"       Y88b  d88P   888  Y88b  d88P      888        888 d88P 888  888 Y88b 888  |
+   | 888888888   "Y8888P"  8888888 "Y8888P"       8888888888 88888P"  "Y888888  "Y88888  |
+   |                                                                                888  |
+   | 888888888888888888888888888888888888888888888888888888888888888888888888  Y8b d88P  |
+   |                                                                            "Y88P"   |
+   | PLEASE READ BEFORE WASTING TIME + ALL EXIGENT INC. CONTENT ASSETS ARE CODED         |
+   | WITH CRYPTOGRAPHIC HASH FUNCTION CALLED “MD5” TO COMBINE THE ORIGINAL HTML CODE AS  |
+   | WELL AS IMAGES WITH A UNIQUE TOKEN THAT IS GENERATED FOR EACH SECURE SOURCE THE     |
+   | RESULT OF THIS HASH FUNCTION IS THEN APPENDED TO THE END OF ALL CODE AND IMAGE      |
+   | URLS WITH THE S PARAMETER, CREATING A SIGNED URL. IF THE PATH OR PARAMETERS OF ANY  |
+   | URLS IN IMAGE PATHS AND OR HTML’S CODING ECOSYSTEM AND ITS DEPENDENCIES ARE         |
+   | ALTERED, THE ALTERED URL WILL RETURN A “403 FORBIDDEN” CODE INSTEAD OF AN IMAGE.    |
+   | AND HTML CODE WITH ANY OF ITS COMPONENTS TO MISMATCH AS WELL. THIS PREVENTS         |
+   | UNAUTHORIZED PARTIES FROM CHANGING THE PARAMETERS ON ANY URLS OR CODING.            |
+   |                                                                                     |
+   +-------------------------------------------------------------------------------------- -->
+
+
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>##BROWSERTITLE##</title>
+		
+		<meta http-equiv="content-type" content="text/html; charset=utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+		<link href="https://fonts.googleapis.com/css?family=Raleway:100,300,500,700,900" rel="stylesheet">
+		<link rel="stylesheet" href="styles.css">
+<!-- 		<link rel="stylesheet" href="https://res.cloudinary.com/xd1/raw/upload/v1538212490/web-components/styles.css"> -->
+
+
+
+		
+
+
+
+
+
+
+	</head>
+	<body>
+		<div class="cmsmini" id="34065">
+			<!-- END-csshead -->
+			<!--============ PAGE ============-->
+			<div id="PAGE" class="parallex-t--XXX" style="">
+				<!--======= HEADER ===-->
+				<!-- END-headerfooter1 -->
+				<!--======= MAIN CONTENT =================-->
+				<div class="maincontent mainbgXXX roundsm">
+					<!--======= Gallery / Productinfo combo ===-->
+					<!-- END-productinfo1 -->
+					<!-- END-infotabs1 -->
+					<!-- END-textimgl -->
+					<!-- END-infoboxes1 -->
+					<!-- END-gallery_categories1 -->
+					<!-- END-testimonials -->
+					<!-- END-gallery_products1 -->
+					<div class="headerfooter1-START">
+						<!--======= Mobile Kurzbeschreibung =======-->
+
+
+<div style="display:none" id="exigentincebaystore">
+	<div class="eBayMobileShortdescription">
+		<div vocab="https://schema.org/" typeof="Product">
+			<span property="description">##SHORT##</span>
+		</div>
+	</div>
+	<span id="accountname">exigent_inc</span>
+	<span id="shopURL">https://www.ebay.com/str/exigentinc</span>
+</div>
+
+
+
+
+						<!--LOGO AREA -->
+						<div class="header">
+							<!-- logo area -->
+							<div class="logoarea row">
+								<div class="iscol form-group col-md-6">
+									<img class="logoimg ff_logopic" src="https://res.cloudinary.com/xd1/image/upload/v1538212579/web-components/exigent-ecommerce-store-logo-2018.png" border="0" style="display: block;" alt="">
+								</div>
+								<div class="iscol form-group text-right ff_headerinfotext col-md-6">
+									<ul>
+										<li>Excellent <strong>24/7</strong> Support
+											<!-- li-->
+										</li>
+										<li><strong>Fast & Free</strong> Delivery on most items
+											<!-- li-->
+										</li>
+										<li>Wide range of <strong>Top Brands</strong> at great prices
+										</li>
+										<li><strong>Complete & Accurate</strong> Product Information
+										</li>
+										<li><strong>30 Day</strong> Risk Free Returns
+										</li>
+									</ul>
+								</div>
+							</div>
+							<!--======== NAV (mobile first) ===========-->
+							<!-- glyphicon-file, glyphicon-euro, glyphicon-question-sign, glyphicon-send, glyphicon-flag, glyphicon-envelope -->
+						</div>
+						<!-- end header -->
+						<!--======= topslider ===-->
+						<!-- end container -->
+					</div>
+					<div class="productinfo1-START">
+						<div class="container">
+							<section>
+								<div class="row norightmargin">
+									<div class="tp-productgal1 col-lg-7 col-sm-7">
+										
+										<div id="islider1" class="islider islidenum10 thumbsperrow5 islider_navdotsXXX  islidermaximgheight8 islidermaxthumbheight6 aclicktype">
+											<!-- aclicktype OR inputclicktype -->
+											<label class="targetlabel aclicktype" id="islide1__1">
+											</label>
+											<label class="targetlabel aclicktype" id="islide2__1">
+											</label>
+											<label class="targetlabel aclicktype" id="islide3__1">
+											</label>
+											<label class="targetlabel aclicktype" id="islide4__1">
+											</label>
+											<label class="targetlabel aclicktype" id="islide5__1">
+											</label>
+											<label class="targetlabel aclicktype" id="islide6__1">
+											</label>
+											<label class="targetlabel aclicktype" id="islide7__1">
+											</label>
+											<label class="targetlabel aclicktype" id="islide8__1">
+											</label>
+											<label class="targetlabel aclicktype" id="islide9__1">
+											</label>
+											<label class="targetlabel aclicktype" id="islide10__1">
+											</label>
+											<!-- lightboxes with id -->
+											<a href="#_" class="lightbox1a" id="lb_img1">
+												<img src="https://dummyimage.com/1500x1500/febd17/fff.png&text=IMG+1">
+											</a><a href="#_" class="lightbox1a" id="lb_img2">
+											<img src="https://dummyimage.com/1500x1500/febd17/fff.png&text=IMG+2">
+										</a><a href="#_" class="lightbox1a" id="lb_img3">
+										<img src="https://dummyimage.com/1500x1500/febd17/fff.png&text=IMG+3">
+									</a><a href="#_" class="lightbox1a" id="lb_img4">
+									<img src="https://dummyimage.com/1500x1500/febd17/fff.png&text=IMG+4">
+								</a><a href="#_" class="lightbox1a" id="lb_img5">
+								<img src="https://dummyimage.com/1500x1500/febd17/fff.png&text=IMG+5">
+							</a><a href="#_" class="lightbox1a" id="lb_img6">
+							<img src="https://dummyimage.com/1500x1500/febd17/fff.png&text=IMG+6">
+						</a><a href="#_" class="lightbox1a" id="lb_img7">
+						<img src="https://dummyimage.com/1500x1500/febd17/fff.png&text=IMG+7">
+					</a><a href="#_" class="lightbox1a" id="lb_img8">
+					<img src="https://dummyimage.com/1500x1500/febd17/fff.png&text=IMG+8">
+				</a><a href="#_" class="lightbox1a" id="lb_img9">
+				<img src="https://dummyimage.com/1500x1500/febd17/fff.png&text=IMG+9">
+			</a><a href="#_" class="lightbox1a" id="lb_img10">
+			<img src="https://dummyimage.com/1500x1500/febd17/fff.png&text=IMG+10">
+		</a>
+		<!-- SLIDER PICS  -->
+		<div class="isliderbody">
+			<!-- Number of images here is flexiblle - NO NEED to change css -->
+			<div class="islide">
+				<a href="#lb_img1">
+					<img src="https://dummyimage.com/1500x1500/febd17/fff.png&text=IMG+1" alt="">
+				</a>
+			</div>
+			<div class="islide">
+				<a href="#lb_img2">
+					<img src="https://dummyimage.com/1500x1500/febd17/fff.png&text=IMG+2" alt="">
+				</a>
+			</div>
+			<div class="islide">
+				<a href="#lb_img3">
+					<img src="https://dummyimage.com/1500x1500/febd17/fff.png&text=IMG+3" alt="">
+				</a>
+			</div>
+			<div class="islide">
+				<a href="#lb_img4">
+					<img src="https://dummyimage.com/1500x1500/febd17/fff.png&text=IMG+4" alt="">
+				</a>
+			</div>
+			<div class="islide">
+				<a href="#lb_img5">
+					<img src="https://dummyimage.com/1500x1500/febd17/fff.png&text=IMG+5" alt="">
+				</a>
+			</div>
+			<div class="islide">
+				<a href="#lb_img6">
+					<img src="https://dummyimage.com/1500x1500/febd17/fff.png&text=IMG+6" alt="">
+				</a>
+			</div>
+			<div class="islide">
+				<a href="#lb_img7">
+					<img src="https://dummyimage.com/1500x1500/febd17/fff.png&text=IMG+7" alt="">
+				</a>
+			</div>
+			<div class="islide">
+				<a href="#lb_img8">
+					<img src="https://dummyimage.com/1500x1500/febd17/fff.png&text=IMG+8" alt="">
+				</a>
+			</div>
+			<div class="islide">
+				<a href="#lb_img9">
+					<img src="https://dummyimage.com/1500x1500/febd17/fff.png&text=IMG+9" alt="">
+				</a>
+			</div>
+			<div class="islide">
+				<a href="#lb_img10">
+					<img src="https://dummyimage.com/1500x1500/febd17/fff.png&text=IMG+10" alt="">
+				</a>
+			</div>
+			<img src="https://dummyimage.com/1500x1500/febd17/fff.png&text=IMG+1" class="isliderimgheightener">
+		</div>
+		<!-- SLIDER NAV  -->
+		<div class="islidernav">
+			<div>
+				<!-- aclicktype OR inputclicktype -->
+				<a class="islidethumb aclicktype" href="#islide1__1" style="background-image:url('');">
+					<img src="https://dummyimage.com/1500x1500/febd17/fff.png&text=IMG+1" alt="">
+				</a><a class="islidethumb aclicktype" href="#islide2__1" style="background-image:url('');">
+				<img src="https://dummyimage.com/1500x1500/febd17/fff.png&text=IMG+2" alt="">
+			</a><a class="islidethumb aclicktype" href="#islide3__1" style="background-image:url('');">
+			<img src="https://dummyimage.com/1500x1500/febd17/fff.png&text=IMG+3" alt="">
+		</a><a class="islidethumb aclicktype" href="#islide4__1" style="background-image:url('');">
+		<img src="https://dummyimage.com/1500x1500/febd17/fff.png&text=IMG+4" alt="">
+	</a><a class="islidethumb aclicktype" href="#islide5__1" style="background-image:url('');">
+	<img src="https://dummyimage.com/1500x1500/febd17/fff.png&text=IMG+5" alt="">
+</a><a class="islidethumb aclicktype" href="#islide6__1" style="background-image:url('');">
+<img src="https://dummyimage.com/1500x1500/febd17/fff.png&text=IMG+6" alt="">
+</a><a class="islidethumb aclicktype" href="#islide7__1" style="background-image:url('');">
+<img src="https://dummyimage.com/1500x1500/febd17/fff.png&text=IMG+7" alt="">
+</a><a class="islidethumb aclicktype" href="#islide8__1" style="background-image:url('');">
+<img src="https://dummyimage.com/1500x1500/febd17/fff.png&text=IMG+8" alt="">
+</a><a class="islidethumb aclicktype" href="#islide9__1" style="background-image:url('');">
+<img src="https://dummyimage.com/1500x1500/febd17/fff.png&text=IMG+9" alt="">
+</a><a class="islidethumb aclicktype" href="#islide10__1" style="background-image:url('');">
+<img src="https://dummyimage.com/1500x1500/febd17/fff.png&text=IMG+10" alt="">
+</a>
+</div>
+</div>
+</div>
+<!-- end slider-->
+</div>
+<!-- end product gal -->
+<div class="tp-productshort col-lg-5 col-sm-5">
+<!-- col right -->
+<div class="brandimage">
+<img src="https://0d54c38a030c3dacc70b-c9cffdae8450ed907e5616beb6e141df.ssl.cf5.rackcdn.com/Brands/carried-brands-002.png">
+</div>
+<h1 class="tp-producttitle titlecolor ff_title" style="font-weight: 900;letter-spacing: -1px;">##ITEM-TITLE##</h1>
+
+<hr class="trans">
+<p class="ff_desc_short">##PRODESCRIPTION##
+</p>
+
+<div class="stitched" style="text-align: center;">
+		<font size="5">HURRY - Free Shipping is valid while supplies last!</font>
+	</div>
+
+
+<!-- -button combo -->
+<div class="pricecombo roundsm row col-sm-12">
+<div class="col-sm-5">
+<div class="pricecombo-left">
+
+<div class="strikedprice" style="
+    font-weight: 800;
+">##$BEFORE,##<span class="pricecents">##C##
+</span>
+</div>
+<div class="tp-price" style=" ">##$AFTER,##<span class="pricecents">##B##
+</span>
+</div>
+<div class="pricecombo_addinfo" style="">
+<i class="glyphicon glyphicon-ok color1">
+</i>
+<span>Fast & Free Shipping
+</span>
+</div>
+<div class="pricecombo_addinfo" style="">
+<i class="glyphicon glyphicon-ok color1">
+</i>
+<span>In Stock Item
+</span>
+</div>
+<div class="pricecombo_addinfo" style="">
+<i class="glyphicon glyphicon-ok color1">
+</i>
+<span>Price Includes Tax!
+</span>
+</div>
+</div>
+</div>
+<div class="pricecombo-buttons col-sm-7">
+<div class="tp-buttupper row col-sm-12">
+<a class="pricebutt_buyitnow btn btn-lg btn-success btn-block color1bg" href="https://offer.ebay.com/ws/eBayISAPI.dll?BinConfirm&item=32" target="_blank">
+<i class="glyphicon glyphicon-shopping-cart">
+</i>
+<span class="tp-buttupper-text">Buy it now
+</span>
+</a>
+</div>
+<div class="tp-buttlower row col-sm-12 ">
+<div class="tp-buttlower1 input-group buttonaddon width50xx">
+<span class="input-group-addon">
+<span class="glyphicon glyphicon-eye-open">
+</span>
+</span>
+<a type="text" class="pricebutt_watchlist form-control" href="http://cgi1.ebay.com/ws/eBayISAPI.dll?MakeTrack&item=32" target="_blank">
+<span class="tp-buttlower1-text">Add to Watchlist
+</span>
+</a>
+</div>
+<div class="tp-buttlower2 input-group buttonaddon width50xx">
+<span class="input-group-addon">
+<span class="glyphicon glyphicon-question-sign">
+</span>
+</span>
+<a type="text" class="pricebutt_contact form-control" href="https://contact.ebay.com/ws/eBayISAPI.dll?FindAnswers&requested=exigent_inc&rt=nc&iid=32" target="_blank">
+<span class="tp-buttlower2-text">Questions? Contact us
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+<!-- end price/button box -->
+</div>
+<!-- tp-productshort -->
+</div>
+</section>
+</div>
+<!-- end container -->
+</div>
+<div class="infotabs1-START aclicktype">
+<div class="flex-height row" style="
+margin-top: 20px;
+">
+<div class="col-sm-3">
+<div id="month-to-month-panel">
+<div class="panel panel-default ">
+<div class="panel-heading" style="font-size: 19px;letter-spacing: -1px;font-weight: 700;background-color: #fff9e9;"><i class="fas fa-barcode" style="padding-right: 7px;"></i>Product Barcode</div>
+<div class="panel-body">
+<div class="text-center">
+<p>UPC#: <strong>##BARCODETEXT##</strong></p>
+<img src="https://0d54c38a030c3dacc70b-c9cffdae8450ed907e5616beb6e141df.ssl.cf5.rackcdn.com/product%20barcode%20sku/000346313949.png" style="max-width: 100%;padding-top: 25px;padding-bottom: 41px;">
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-sm-3">
+<div id="month-to-month-panel">
+<div class="panel panel-default ">
+<div class="panel-heading" style="font-size: 19px;letter-spacing: -1px;font-weight: 700;background-color: #fff9e9;"><i class="fas fa-globe" style="padding-right: 7px;"></i> Brand / Model#</div>
+<div class="panel-body">
+<div class="text-center">
+<p>##BRANDNAMETEXT##</p>
+<img src="https://0d54c38a030c3dacc70b-c9cffdae8450ed907e5616beb6e141df.ssl.cf5.rackcdn.com/Brands/carried-brands-002.png" style="max-width: 100%;">
+<p style="margin-top: 20px;">Model#</p>
+<p style="
+    font-size: 23px;
+    font-weight: 600;
+">##MODELTEXT##</p>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-sm-3">
+<div id="month-to-month-panel">
+<div class="panel panel-default ">
+<div class="panel-heading" style="font-size: 19px;letter-spacing: -1px;font-weight: 700;background-color: #fff9e9;"><i class="fas fa-ruler-combined" style="padding-right: 7px;"></i>Dimensions</div>
+<div class="panel-body">
+<div class="text-center">
+<p>Length <strong>##L## inches</strong>
+<br>
+Width <strong>##W## inches</strong>
+<br>
+Height <strong>##H## inches</strong></p>
+<img src="https://res.cloudinary.com/xdvault/image/upload/v1536973804/dim2.png" style="max-width: 100%;">
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-sm-3">
+<div id="month-to-month-panel">
+<div class="panel panel-default ">
+<div class="panel-heading" style="font-size: 19px;letter-spacing: -1px;font-weight: 700;background-color: #fff9e9;"><i class="fas fa-weight-hanging" style="padding-right: 7px;"></i>Weight</div>
+<div class="panel-body">
+<div class="text-center">
+<p>Item Weight: <strong>##WEIGHT-TEXT##</strong></p>
+<img src="https://0d54c38a030c3dacc70b-c9cffdae8450ed907e5616beb6e141df.ssl.cf5.rackcdn.com/dims.png" style="max-width: 100%;">
+
+</div>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+
+
+
+
+
+<!--
+<p>
+</p>-->
+<!-- TABS -->
+<div class="container">
+<div class="wrapper">
+<div class="tab_container tabnavfade" style="border-left:1px solid #eee; border-right:1px solid #eee; border-bottom:1px solid #eee; ">
+<!-- needed for aclicktype
+<a> clicktype -->
+<div id="tabtarget1">
+</div>
+<div id="tabtarget2">
+</div>
+<div id="tabtarget3">
+</div>
+<div id="tabtarget4">
+</div>
+<div id="tabtarget5">
+</div>
+<!-- inputs needed for inputclicktype -->
+<label id="tablabel1" for="tab1" class="tabnavfade color1shadowtop">
+<a href="#tabtarget1">
+<i class="glyphicon glyphicon-chevron-right">
+</i>
+<span>Overview
+</span>
+</a>
+</label>
+
+<section id="content1" class="tab-content" style="overflow:hidden">
+<div class="textimgl-START textimgbg-START">
+<div class="pblock container roundsm" style="background-image: none;">
+<div class="row" style="">
+<div class="colleft col-xs-12">
+<h1 class="ff_title"><i class="fas fa-award"></i> Item Description</h1>
+<p class="ff_desc">##PRODESCRIPTION##</p>
+
+<hr class="style-three">
+
+
+
+	<div class="col-md-5">
+<h1 class="ff_title"><i class="fas fa-play-circle"></i> 360 Overview</h1>
+<video width="100%" height="320px" controls="" poster="" style="margin-top: 18px;">
+<source src="https://f002.backblazeb2.com/file/product-video/360-video-coming-soon.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+
+</div>
+
+	<div class="col-md-7">
+<h1 class="ff_title"><i class="far fa-play-circle"></i> Product Video</h1>
+
+<video width="100%" height="100%" controls="" poster="https://0d54c38a030c3dacc70b-c9cffdae8450ed907e5616beb6e141df.ssl.cf5.rackcdn.com/video-poster.jpg" style="margin-top: 20px;">
+<source src="https://f002.backblazeb2.com/file/product-video/product-video-coming-soon.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+</div>
+</div>
+
+<div style="clear:both">
+</div>
+
+
+<hr class="style-three">
+
+
+
+	<div class="col-md-6">
+<h1 class="ff_title"><i class="fab fa-whmcs"></i> Technical Specs</h1>
+
+<div class="specs__title">
+    <h4>Dimensions</h4>
+</div>
+<div class="specs__table" style="height: 100%;">
+        <div class="specs__group col-12 col-lg-6">
+            <div class="col-6 specs__cell specs__cell--label">Product Depth (in.)</div>
+            <div class="col-6 specs__cell">22.5</div>
+        </div>
+        <div class="specs__group col-12 col-lg-6">
+            <div class="col-6 specs__cell specs__cell--label">Product Height (in.)</div>
+            <div class="col-6 specs__cell">12</div>
+        </div>
+        <div class="specs__group col-12 col-lg-6">
+            <div class="col-6 specs__cell specs__cell--label">Product Width (in.)</div>
+            <div class="col-6 specs__cell">5</div>
+        </div>
+</div>
+<div class="specs__title">
+    <h4>Details</h4>
+</div>
+<div class="specs__table">
+        <div class="specs__group col-12 col-lg-6">
+            <div class="col-6 specs__cell specs__cell--label">Amperage (amps)</div>
+            <div class="col-6 specs__cell">14</div>
+        </div>
+        <div class="specs__group col-12 col-lg-6">
+            <div class="col-6 specs__cell specs__cell--label">Blow energy (ft.-lb.)</div>
+            <div class="col-6 specs__cell">12.4</div>
+        </div>
+        <div class="specs__group col-12 col-lg-6">
+            <div class="col-6 specs__cell specs__cell--label">Blows per Minute (BPM)</div>
+            <div class="col-6 specs__cell">1890</div>
+        </div>
+        <div class="specs__group col-12 col-lg-6">
+            <div class="col-6 specs__cell specs__cell--label">Chuck Size</div>
+            <div class="col-6 specs__cell">1 In.</div>
+        </div>
+        <div class="specs__group col-12 col-lg-6">
+            <div class="col-6 specs__cell specs__cell--label">Chuck Type</div>
+            <div class="col-6 specs__cell">SDS-Max</div>
+        </div>
+        <div class="specs__group col-12 col-lg-6">
+            <div class="col-6 specs__cell specs__cell--label">Color Family</div>
+            <div class="col-6 specs__cell" itemprop="color">Blue</div>
+        </div>
+        <div class="specs__group col-12 col-lg-6">
+            <div class="col-6 specs__cell specs__cell--label">Condition</div>
+            <div class="col-6 specs__cell">New</div>
+        </div>
+        <div class="specs__group col-12 col-lg-6">
+            <div class="col-6 specs__cell specs__cell--label">Impact Energy (ft.-lbs)</div>
+            <div class="col-6 specs__cell">12.4</div>
+        </div>
+        <div class="specs__group col-12 col-lg-6">
+            <div class="col-6 specs__cell specs__cell--label">Power Type</div>
+            <div class="col-6 specs__cell">Electric</div>
+        </div>
+        <div class="specs__group col-12 col-lg-6">
+            <div class="col-6 specs__cell specs__cell--label">Returnable</div>
+            <div class="col-6 specs__cell">90-Day</div>
+        </div>
+        <div class="specs__group col-12 col-lg-6">
+            <div class="col-6 specs__cell specs__cell--label">Side Handle</div>
+            <div class="col-6 specs__cell">Yes</div>
+        </div>
+        <div class="specs__group col-12 col-lg-6">
+            <div class="col-6 specs__cell specs__cell--label">Start Type</div>
+            <div class="col-6 specs__cell">Electric</div>
+        </div>
+        <div class="specs__group col-12 col-lg-6">
+            <div class="col-6 specs__cell specs__cell--label">Tool weight (lb.)</div>
+            <div class="col-6 specs__cell">22.5</div>
+        </div>
+        <div class="specs__group col-12 col-lg-6">
+            <div class="col-6 specs__cell specs__cell--label">Tools Product Type</div>
+            <div class="col-6 specs__cell">Power Tool</div>
+        </div>
+        <div class="specs__group col-12 col-lg-6">
+            <div class="col-6 specs__cell specs__cell--label">Variable Speed</div>
+            <div class="col-6 specs__cell">Yes</div>
+        </div>
+        <div class="specs__group col-12 col-lg-6">
+            <div class="col-6 specs__cell specs__cell--label">Vibration Control</div>
+            <div class="col-6 specs__cell">No</div>
+        </div>
+        <div class="specs__group col-12 col-lg-6">
+            <div class="col-6 specs__cell specs__cell--label">Voltage (volts)</div>
+            <div class="col-6 specs__cell">120</div>
+        </div>
+        <div class="specs__group col-12 col-lg-6">
+            <div class="col-6 specs__cell specs__cell--label">Working Direction</div>
+            <div class="col-6 specs__cell">Wall</div>
+        </div>
+</div>
+<div class="specs__title">
+    <h4>Warranty / Certifications</h4>
+</div>
+<div class="specs__table">
+        <div class="specs__group col-12 col-lg-6">
+            <div class="col-6 specs__cell specs__cell--label">Manufacturer Warranty</div>
+            <div class="col-6 specs__cell">1 Year</div>
+        </div>
+</div>
+
+</div>
+
+
+
+                
+
+
+	<div class="col-md-6">
+<h1 class="ff_title"><i class="fas fa-list-ul"></i> Product Highlights</h1>
+
+
+
+<ul class="" style="margin-top: 25px;">
+        <li class="list-group-item material_list_group_item" style="padding-top: 3px;padding-bottom: 3px;margin-bottom: 9px;background-color: #fff9e9;">Medium size with larger active area</li>
+        <li class="list-group-item material_list_group_item" style="padding-top: 3px;padding-bottom: 3px;margin-bottom: 9px;background-color: #fff9e9;">Ideal for use with large or multiple monitors and can be set up for both left- and right-handed use.</li>
+        <li class="list-group-item material_list_group_item" style="padding-top: 3px;padding-bottom: 3px;margin-bottom: 9px;background-color: #fff9e9;">Four customizable ExpressKeys</li>
+        <li class="list-group-item material_list_group_item" style="padding-top: 3px;padding-bottom: 3px;margin-bottom: 9px;background-color: #fff9e9;">Put your favorite shortcuts like Undo or Copy/Paste at your fingertips.</li>
+        <li class="list-group-item material_list_group_item" style="padding-top: 3px;padding-bottom: 3px;margin-bottom: 9px;background-color: #fff9e9;">Wacom Pen 4K</li>
+        <li class="list-group-item material_list_group_item" style="padding-top: 3px;padding-bottom: 3px;margin-bottom: 9px;background-color: #fff9e9;">Cordless, pressure-sensitive, battery-free pen with built-in pen nib compartment and nib removal tool.</li>
+        <li class="list-group-item material_list_group_item" style="padding-top: 3px;padding-bottom: 3px;margin-bottom: 9px;background-color: #fff9e9;">4096 levels of pressure sensitivity</li>
+        <li class="list-group-item material_list_group_item" style="padding-top: 3px;padding-bottom: 3px;margin-bottom: 9px;background-color: #fff9e9;">For control and precision when drawing, painting and photo-editing in any software program.</li>
+        <li class="list-group-item material_list_group_item" style="padding-top: 3px;padding-bottom: 3px;margin-bottom: 9px;background-color: #fff9e9;">Bluetooth connectivity</li>
+        <li class="list-group-item material_list_group_item" style="padding-top: 3px;padding-bottom: 3px;margin-bottom: 9px;background-color: #fff9e9;">Connect wirelessly with Bluetooth to your Mac or PC.</li>
+        <li class="list-group-item material_list_group_item" style="padding-top: 3px;padding-bottom: 3px;margin-bottom: 9px;background-color: #fff9e9;">Includes free downloadable software</li>
+        <li class="list-group-item material_list_group_item" style="padding-top: 3px;padding-bottom: 3px;margin-bottom: 9px;background-color: #fff9e9;">Choose two of the following: Corel Painter Essentials (drawing/painting), Corel AfterShot (photo-editing), Clip Studio Paint Pro 2-year license (comic/manga).</li>
+        <li class="list-group-item material_list_group_item" style="padding-top: 3px;padding-bottom: 3px;margin-bottom: 9px;background-color: #fff9e9;">8.5 x 5.3" Active Area</li>
+        <li class="list-group-item material_list_group_item" style="padding-top: 3px;padding-bottom: 3px;margin-bottom: 9px;background-color: #fff9e9;">4096 Levels of Pressure Sensitivity</li>
+        <li class="list-group-item material_list_group_item" style="padding-top: 3px;padding-bottom: 3px;margin-bottom: 9px;background-color: #fff9e9;">USB & Bluetooth Connectivity</li>
+        <li class="list-group-item material_list_group_item" style="padding-top: 3px;padding-bottom: 3px;margin-bottom: 9px;background-color: #fff9e9;">4 Programmable ExpressKeys</li>
+        <li class="list-group-item material_list_group_item" style="padding-top: 3px;padding-bottom: 3px;margin-bottom: 9px;background-color: #fff9e9;">Pressure-Sensitive, Battery-Free Pen</li>
+        <li class="list-group-item material_list_group_item" style="padding-top: 3px;padding-bottom: 3px;margin-bottom: 9px;background-color: #fff9e9;">Includes Free Downloadable Software</li>
+        <li class="list-group-item material_list_group_item" style="padding-top: 3px;padding-bottom: 3px;margin-bottom: 9px;background-color: #fff9e9;">Windows & Mac Compatible</li>
+</ul>
+
+<hr class="style-three">
+
+	<div class="col-md-12">
+<h1 class="ff_title"><i class="fas fa-tag"></i> Product Variations</h1>
+<p class="ff_desc" style="
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 19px;
+">Are you unsure of the exact <kbd>manufacturer</kbd> or <kbd>model</kbd> of the item you’re looking for? See below for a list of possible product variations for this item.</p>
+
+<ul>
+	<li>Ge Plug-in Wirelessly Control Outdoor Bluetooth Smart Switch 13868</li>
+	<li>GE Bluetooth 15-Amp 1-Outlet Digital Residential Plug-in Countdown Function Ligh</li>
+	<li>GE Bluetooth Outdoor Smart Switch Timer (13868)</li>
+	<li>GE 13868 Bluetooth Plug-in Outdoor On/Off Smart Switch</li>
+	<li>GE 13868 Bluetooth(R) Plug-In Outdoor On/Off Smart Switch</li>
+	<li>Ge - Bluetooth Plug-in Outdoor Smart Switch - Black</li>
+	<li>GE Bluetooth Plug-In Outdoor Smart Switch - White (13868)</li>
+	<li>BLTH OUTDOOR SMART SWITCH</li>
+	<li>GE 13868 Bluetooth Plug-In Outdoor On/Off Smart Switch</li>
+	<li>GE Bluetooth Outdoor Smart Switch (Plug-In), 13868</li>
+	<li>GE 13868 Bluetooth(R) Plug-In Outdoor On Off Smart Switch</li>
+	<li>Ge 13868 Bluetooth Plug-In Outdoor On & Off Smart Switch</li>
+	<li>GE Ge Bluetooth Plug-in Outdoor On And Off Smart Switch</li>
+	<li>Bluetooth Outdoor Plug-In On/Off Timer Module, Black</li>
+	<li>Jasco GE Bluetooth Plug-In Outdoor Smart Switch</li>
+	<li>Plug-In Outdoor Smart Switch, Bluetooth</li>
+	<li>Jasco 13868 GE Bluetooth Plug In Outdoor Smart Switch</li>
+	<li>GE 13868 Bluetooth Outdoor Smart Switch Timer, Black</li>
+	<li>Ge Bluetooth Plug-in Outdoor Smart Switch �?Model 13868 (bt4201)</li>
+</ul>
+
+</div>
+
+
+
+
+
+
+
+</section>
+<section id="content2" class="tab-content" style="overflow:hidden">
+<div class="textimgl-START textimgbg-START">
+<div class="pblock container roundsm" style="background-image: none;">
+<div class="row" style="">
+<div class="colleft col-xs-12">
+<h1 class="ff_title">t2
+</h1>
+<dl class="row">
+<dt class="col-sm-3">Description lists</dt><dd class="col-sm-9">A description list is perfect for defining terms.</dd></dl>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section id="content3" class="tab-content" style="overflow:hidden">
+<div class="textimgl-START textimgbg-START">
+<div class="pblock container roundsm" style="background-image: none;">
+<div class="row" style="">
+<div class="colleft col-xs-12">
+<h1 class="ff_title">t3
+</h1>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section id="content4" class="tab-content" style="overflow:hidden">
+<div class="textimgl-START textimgbg-START">
+<div class="pblock container roundsm" style="background-image: none;">
+<div class="row" style="">
+<div class="colleft col-xs-12">
+<h1 class="ff_title">t4
+</h1>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section id="content5" class="tab-content" style="overflow:hidden">
+<div class="textimgl-START textimgbg-START">
+<div class="pblock container roundsm" style="background-image: none;">
+<div class="row" style="">
+<div class="colleft col-xs-12">
+<h1 class="ff_title">t5
+</h1>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+<!-- tab_container -->
+</div>
+<!-- wrapper -->
+</div>
+<!-- end tabs "container" -->
+</div>
+
+<div class="testimonials-START">
+<div class="hrheadline">
+<span class="ff_title" style="
+    font-weight: 800;
+    letter-spacing: -1px;
+">We are 100% Positive Feedback Seller
+</span>
+</div>
+<div class="testimonials container">
+<div class="row">
+<div class="col-sm-6">
+<div class="testimonials_block">
+<div class="testim-padding">
+<div class="ban_holder">
+<div class="doublequotes color1">‘<span style="margin:-12px">‘
+</span>
+</div>
+<p>
+<span class="ff_text1">Absolutely PERFECT!!! Thank you so much. Great price too. Will do business again!
+</span>
+<br>
+<strong class="color1">
+<span>—
+</span>
+<span class="ff_author1">Buyer: t.rex2000 (521&#9733;)
+</span>
+</strong>
+</p>
+</div>
+</div>
+</div>
+</div>
+<div class="col-sm-6">
+<div class="testimonials_block">
+<div class="testim-padding">
+<div class="ban_holder">
+<div class="doublequotes color1">‘<span style="margin:-12px">‘
+</span>
+</div>
+<p>
+<span class="ff_text2">Thank you for an easy, pleasant transaction. Excellent seller. A++++++.
+</span>
+<br>
+<strong class="color1">
+<span>—
+</span>
+<span class="ff_author2">Buyer: clowdyred (412&#9733;)
+</span>
+</strong>
+</p>
+</div>
+</div>
+</div>
+</div>
+<div class="col-sm-6">
+<div class="testimonials_block">
+<div class="testim-padding">
+<div class="ban_holder">
+<div class="doublequotes color1">‘<span style="margin:-12px">‘
+</span>
+</div>
+<p>
+<span class="ff_text3">Quality of item was great. Quick delivery. Service was exceptional. Great seller. A++!
+</span>
+<br>
+<strong class="color1">
+<span>—
+</span>
+<span class="ff_author3">Buyer: 5407roberts (576&#9733;)
+</span>
+</strong>
+</p>
+</div>
+</div>
+</div>
+</div>
+<div class="col-sm-6">
+<div class="testimonials_block">
+<div class="testim-padding">
+<div class="ban_holder">
+<div class="doublequotes color1">‘<span style="margin:-12px">‘
+</span>
+</div>
+<p>
+<span class="ff_text4">Honest, Prompt ebayer. My purchase arrived on time and in brand new condition as listed!
+</span>
+<br>
+<strong class="color1">
+<span>—
+</span>
+<span class="ff_author4">Buyer: m.j.nelson (792&#9733;)
+</span>
+</strong>
+</p>
+</div>
+</div>
+</div>
+</div>
+<div class="col-sm-6">
+<div class="testimonials_block">
+<div class="testim-padding">
+<div class="ban_holder">
+<div class="doublequotes color1">‘<span style="margin:-12px">‘
+</span>
+</div>
+<p>
+<span class="ff_text5">Delivery was quick and on time as promised. Quality of item was good! Would buy from again. Thanks.
+</span>
+<br>
+<strong class="color1">
+<span>—
+</span>
+<span class="ff_author5">Buyer: web-marx (685&#9733;)
+</span>
+</strong>
+</p>
+</div>
+</div>
+</div>
+</div>
+<div class="col-sm-6">
+<div class="testimonials_block">
+<div class="testim-padding">
+<div class="ban_holder">
+<div class="doublequotes color1">‘<span style="margin:-12px">‘
+</span>
+</div>
+<p>
+<span class="ff_text6">My 4th purchase from Exigent. Fantastic quality, delivery was remarkably speedy. Great seller.
+</span>
+<br>
+<strong class="color1">
+<span>—
+</span>
+<span class="ff_author6">Buyer: prod-901 (1911&#9733;)
+</span>
+</strong>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="footer1-START">
+<div class="footer container roundsm">
+<div class="row">
+<div class="footer-col col-sm-4">
+<div class="footer-title">
+<i class="glyphicon glyphicon-triangle-right color1">
+</i>
+<span class="ff_footercol1title">QUICK LINKS
+</span>
+</div>
+<div class="dashedbottom">
+<i class="ff_footericon1r3 glyphicon glyphicon-envelope">
+</i>
+<a href="https://contact.ebay.com/ws/eBayISAPI.dll?FindAnswers&requested=exigent_inc&_trksid=p2050430.m2531.l4583&rt=nc&iid=32" target="_blank">
+<span class="ff_footercol1r3">Got Questions? Contact Us!
+</span>
+</a>
+</div>
+
+
+<div class="dashedbottom">
+<i class="ff_footericon1r3 glyphicon glyphicon-tags">
+</i>
+<a href="https://contact.ebay.com/ws/eBayISAPI.dll?FindAnswers&requested=exigent_inc&_trksid=p2050430.m2531.l4583&rt=nc&iid=32" target="_blank">
+<span class="ff_footercol1r3">Exigent Ebay Store
+</span>
+</a>
+</div>
+<div class="dashedbottom">
+<i class="ff_footericon1r3 glyphicon glyphicon-hdd">
+</i>
+<a href="https://contact.ebay.com/ws/eBayISAPI.dll?FindAnswers&requested=exigent_inc&_trksid=p2050430.m2531.l4583&rt=nc&iid=32" target="_blank">
+<span class="ff_footercol1r3">Consumer Electronics
+</span>
+</a>
+</div>
+<div class="dashedbottom">
+<i class="ff_footericon1r3 glyphicon glyphicon-wrench">
+</i>
+<a href="https://contact.ebay.com/ws/eBayISAPI.dll?FindAnswers&requested=exigent_inc&_trksid=p2050430.m2531.l4583&rt=nc&iid=32" target="_blank">
+<span class="ff_footercol1r3">Industrial & Business
+</span>
+</a>
+</div>
+</div>
+<div class="footer-col col-sm-4">
+<div class="footer-title">
+<i class="glyphicon glyphicon-triangle-right color1">
+</i>
+<span class="ff_footercol2title">About Exigent
+</span>
+</div>
+<div class="ff_footercol2r1">
+<ul>
+<li>Excellent 24/7 Support
+</li>
+<li>Fast & Free Delivery on most items
+</li>
+<li>Wide range of Top Brands at great prices
+</li>
+</li>
+<li>Complete & Accurate Product Information
+</li>
+
+
+</ul>
+</div>
+</div>
+<div class="footer-col col-sm-4">
+<div class="footer-title">
+<i class="glyphicon glyphicon-triangle-right color1">
+</i>
+<span class="ff_footercol3title">CA Prop 65 Info
+</span>
+</div>
+<div class="ff_footercol3r1">For more information, please visit the home page of California Office of Environmental Health Hazard Assessment Proposition 65 Warnings Website
+	<br><br>
+<a title="Online Dispute Resolution (ODR) Platform" href="https://www.P65Warnings.ca.gov" target="_blank" rel="nofollow">www.P65Warnings.ca.gov</a>
+</div>
+</div>
+</div>
+<div class="row paymenttypes">
+<img src="https://res.cloudinary.com/xd1/image/upload/v1538212685/web-components/ups-express-2b.png" alt="">
+<img src="https://res.cloudinary.com/xd1/image/upload/v1538212724/web-components/fedex-express-logo2a.png" alt="">
+<img src="https://res.cloudinary.com/xd1/image/upload/v1538212753/web-components/usps-logo2a.png" alt="">
+<img src="https://res.cloudinary.com/xd1/image/upload/v1538212775/web-components/fedex-ground-logo2a.png" alt="">
+<img src="https://res.cloudinary.com/xd1/image/upload/v1538212798/web-components/ups-ground-2a.png" alt="">
+<img src="https://res.cloudinary.com/xd1/image/upload/v1538212822/web-components/paypal-alternative2.png" alt="">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>
